@@ -7,8 +7,8 @@
 
   <Import Project="$(VSToolsPath)\DotNet\Microsoft.DotNet.Props" Condition="'$(VSToolsPath)' != ''" />
   <PropertyGroup Label="Globals">
-    <ProjectGuid>aa223a3f-c6b3-43d0-9047-f138395d9cce</ProjectGuid>
-    <RootNamespace>EventSourcing.Domain.Test</RootNamespace>
+    <ProjectGuid>1f56cd0c-36ae-4e25-9112-0a269d1775e2</ProjectGuid>
+    <RootNamespace>BestelService.Domain</RootNamespace>
     <BaseIntermediateOutputPath Condition="'$(BaseIntermediateOutputPath)'=='' ">.\obj</BaseIntermediateOutputPath>
     <OutputPath Condition="'$(OutputPath)'=='' ">.\bin\</OutputPath>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>

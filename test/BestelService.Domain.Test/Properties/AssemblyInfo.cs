@@ -7,7 +7,7 @@ using System.Runtime.InteropServices;
 // associated with an assembly.
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("EventSourcing.Domain")]
+[assembly: AssemblyProduct("BestelService.Domain.Test")]
 [assembly: AssemblyTrademark("")]
 
 // Setting ComVisible to false makes the types in this assembly not visible
@@ -16,4 +16,4 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("4e8eb309-2ba3-4e18-959e-1e57d0c8a378")]
+[assembly: Guid("f8f005aa-8e22-4a83-957c-35da0ee8c1d4")]
