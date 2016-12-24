@@ -1,1 +1,1 @@
-# event-sourcing-poc
+# Event Sourcing Proof of Concept
