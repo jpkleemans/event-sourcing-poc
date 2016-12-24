@@ -1991,19 +1991,6 @@
         "runtime": {
           "lib/netstandard1.3/_._": {}
         }
-      },
-      "Common/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v1.0",
-        "dependencies": {
-          "Microsoft.NETCore.App": "1.0.1"
-        },
-        "compile": {
-          "netcoreapp1.0/Common.dll": {}
-        },
-        "runtime": {
-          "netcoreapp1.0/Common.dll": {}
-        }
       }
     }
   },
@@ -6598,16 +6585,10 @@
         "ref/xamarintvos10/_._",
         "ref/xamarinwatchos10/_._"
       ]
-    },
-    "Common/1.0.0": {
-      "type": "project",
-      "path": "../Common/project.json",
-      "msbuildProject": "../Common/Common.xproj"
     }
   },
   "projectFileDependencyGroups": {
     "": [
-      "Common >= 1.0.0-*",
       "Microsoft.NETCore.App >= 1.0.1"
     ],
     ".NETCoreApp,Version=v1.0": []
